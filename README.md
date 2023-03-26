@@ -1,4 +1,4 @@
-# -Comcast_Neural_Network_March_2023
+# Comcast_Neural_Network_March_2023
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
