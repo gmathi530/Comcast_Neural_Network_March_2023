@@ -16,7 +16,7 @@ https://www.onlinegdb.com/
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
-**Test on Correlation and Regression (1):**	https://bit.ly/3P2ps6-6
+**Test on Correlation and Regression (1):**	https://bit.ly/3P2ps66
 
 **Test on Machine Learning (1):** https://bit.ly/2ZJeb1-z
 
